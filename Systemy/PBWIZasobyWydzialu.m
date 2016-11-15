@@ -1,11 +1,3 @@
-//
-//  PBWIZasobyWydzialu.m
-//  SM3
-//
-//  Created by student on 18.10.2016.
-//  Copyright © 2016 student. All rights reserved.
-//
-
 #import "PBWIPokoj.h"
 #import "PBWiBiurko.h"
 #import "PBWiKrzeslo.h"
